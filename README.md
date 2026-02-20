@@ -7,13 +7,13 @@ An embedded environmental monitoring system based on the **STM32F769I-Discovery*
 ## 📸 Gallery
 
 ### Hardware Wiring Diagram
-![Wiring Diagram](images/weather_station_img1.png)
+![Wiring Diagram](images/weather station img1.png)
 
 ### Physical Build (3D-Printed Enclosure)
-![Physical Build](images/weather_station_img3.jpeg)
+![Physical Build](images/weather station img3.png)
 
 ### Grafana Live Dashboard
-![Grafana Dashboard](images/weather_station_img2.jpeg)
+![Grafana Dashboard](images/weather station img2.png)
 
 ---
 
