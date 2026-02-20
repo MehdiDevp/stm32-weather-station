@@ -1,0 +1,9 @@
+../Core/Src/power_monitor.c:41:19:PowerMonitor_Init	40	static
+../Core/Src/power_monitor.c:77:19:PowerMonitor_ReadPower	48	static
+../Core/Src/power_monitor.c:124:7:PowerMonitor_EstimateSOCFromVoltage	40	static
+../Core/Src/power_monitor.c:149:6:PowerMonitor_UpdateCoulombCounting	24	static
+../Core/Src/power_monitor.c:169:7:PowerMonitor_CalculateSOCCoulombCounting	16	static
+../Core/Src/power_monitor.c:181:7:PowerMonitor_CalculateSOCCombined	40	static
+../Core/Src/power_monitor.c:228:6:PowerMonitor_CalculateSOC	40	static
+../Core/Src/power_monitor.c:285:6:PowerMonitor_ResetSOCToFull	4	static
+../Core/Src/power_monitor.c:293:10:PowerMonitor_GetEstimatedRuntimeMinutes	24	static

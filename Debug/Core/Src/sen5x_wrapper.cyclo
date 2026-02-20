@@ -1,0 +1,2 @@
+../Core/Src/sen5x_wrapper.c:4:9:SEN5x_Setup	4
+../Core/Src/sen5x_wrapper.c:37:9:SEN5x_ReadAirQuality	13
